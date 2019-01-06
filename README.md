@@ -2,4 +2,4 @@
 
 #Let's have some fun!
 
-
+#The following is NOT my code but compilation from different sites/videos to start trainning. 
