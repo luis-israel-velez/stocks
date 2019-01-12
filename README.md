@@ -5,6 +5,9 @@
 #The following is NOT my code but compilation from different sites/videos to start trainning.
 #Learning how model works, and what we can do. 
 
+
+
+#Including Docker into the mix to control environment
 sudo docker build -t python-stock .
 
 
