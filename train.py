@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 #The following is code from "Reinforcement_Learning_for_Stock_Prediction"
 
 from agent.agent import Agent 
@@ -16,7 +15,7 @@ print("Good so far!")
 #We can ask this in the future
 ftype = 'csv'
 
-#agent = Agent(window_size)
+agent = Agent(window_size)
 data = getStockDataVec(stock_name, ftype)
 l = len(data) - 1
 batch_size = 32
